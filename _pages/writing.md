@@ -15,8 +15,12 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+##Texts
+-[Graduation Project on Hyperbolic Geometry (Spring '23)](../files/graduation_project.pdf)
+-[Kuadratik karşılıklılığın bir ispatı (with Ayberk Zeytin) (Spring '23)](../Gauss-Sums.pdf)
+
 ## Notes and Presentations
 
 - [Linear Algebra ('22)](../files/Linear Algebra.pdf).
-- [Algebraic deRham Theory (Spring '23)](../files/AlgDeRham.pdf).
-- [Discrete Morse Theory (Spring '23)](../files/TDA_morse.pdf).
+- [Algebraic deRham Theory (with Mert Akdenizli) (Spring '23)](../files/AlgDeRham.pdf).
+- [Discrete Morse Theory (with Eliz Gündüz) (Spring '23)](../files/TDA_morse.pdf).
