@@ -1,6 +1,6 @@
 layout: archive
 title: "Organizing"
-permalink: /organizing/
+permalink: /organizing.md/
 author_profile: true
 redirect_from: 
   - /organizing/
