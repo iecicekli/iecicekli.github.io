@@ -15,9 +15,9 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-##Texts
--[Graduation Project on Hyperbolic Geometry (Spring '23)](../files/graduation_project.pdf)
--[Kuadratik karşılıklılığın bir ispatı (with Ayberk Zeytin) (Spring '23)](../Gauss-Sums.pdf)
+## Texts
+- [Graduation Project on Hyperbolic Geometry (Spring '23)](../files/graduation_project.pdf)
+- [Kuadratik karşılıklılığın bir ispatı (with Ayberk Zeytin) (Spring '23)](../Gauss-Sums.pdf)
 
 ## Notes and Presentations
 
