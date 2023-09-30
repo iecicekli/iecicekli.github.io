@@ -21,6 +21,6 @@ author_profile: true
 
 ## Notes and Presentations
 
-- [Linear Algebra ('22)](../files/Linear Algebra.pdf).
+- [Linear Algebra ('21)](../files/Linear Algebra.pdf).
 - [Algebraic deRham Theory (with Mert Akdenizli) (Spring '23)](../files/AlgDeRham.pdf).
 - [Discrete Morse Theory (with Eliz Gündüz) (Spring '23)](../files/TDA_morse.pdf).
