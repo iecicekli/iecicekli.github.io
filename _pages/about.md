@@ -14,7 +14,7 @@ Here you can find my CV, some lecture notes, expository articles, presentations,
 
 I'm into lifting and history.
 
-Bench: 80, Deadlift: 150 , Squat: 125 as of 2023.
+Bench: 80, Deadlift: 150 , Squat: 130 as of 2023.
 
 I also do online tutoring for undergrad level math subjects. Contact below if interested.
 
