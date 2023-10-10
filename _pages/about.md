@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I just finished my undergrad studies at Galatasaray University in Mathematics.
+I am a masters student at Université Paris-Saclay in mathematics.  Graduated from Galatasaray University.
 
 Here you can find my CV, some lecture notes, expository articles, presentations, things I helped organize, etc .
 
@@ -16,6 +16,6 @@ I'm into lifting and history.
 
 Bench: 80, Deadlift: 150 , Squat: 130 as of 2023.
 
-I also do online tutoring for undergrad level math subjects. Contact below if interested.
+I also do online tutoring for undergrad level math subjects.
 
-You can contact me at ``ibrahimemircicekli (at) gmail (dot) com``.
+You can contact me at ``ibrahim (dash) emir (dot) cicekli (at) universite (dash) paris (dash) saclay (dot) fr`` or at ``ibrahimemircicekli (at) gmail (dot) com``.
