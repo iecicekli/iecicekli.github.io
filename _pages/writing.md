@@ -18,6 +18,7 @@ author_profile: true
 ## Texts
 - [Graduation Project on Hyperbolic Geometry (Spring '23)](../files/graduation_project.pdf)
 - [Kuadratik karşılıklılığın bir ispatı (with Ayberk Zeytin) (Spring '23)](../Gauss-Sums.pdf)
+- [Around the Riemann-Roch Theorem (with Michele Tamagnone) (Summer '24)](../files/Memoire.pdf)]
 
 ## Notes and Presentations
 
