@@ -18,4 +18,4 @@ Bench: 80, Deadlift: 150 , Squat: 130 as of 2023.
 
 I also do online tutoring for undergrad level math subjects.
 
-You can contact me at ``ibrahim (dash) emir (dot) cicekli (at) universite (dash) paris (dash) saclay (dot) fr`` or at ``ibrahimemircicekli (at) gmail (dot) com``.
+You can contact me at ``ibrahim (dot) cicekli (at) etu (dash) upsaclay (dot) fr`` or at ``ibrahimemircicekli (at) gmail (dot) com``.
